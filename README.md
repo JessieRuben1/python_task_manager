@@ -12,3 +12,7 @@ This project was made using python
 - error handling
 - terminal
 
+To run the code, clone this repository and run the code using an IDE of your choice.
+Make sure to install Python language. 
+You can download here: https://www.python.org/downloads/
+
